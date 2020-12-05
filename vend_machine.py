@@ -20,10 +20,9 @@ class VendingMachine(ReadData,Input,VendingMachineValidator):
         :return: a print of
         """
         print('Welcome to the vending machine!\n***************')
-
         print('\nitems available \n***************')
         for item in self.items:
-            print(item['name'] + " " + "price: " + str(item['price']) + " dollars")
+            print("Item:"+ item['name'] +"-------------"+ "price: " + str(item['price']) )
         print('***************\n')
 
     def buyItem(self, selected: list) -> any:

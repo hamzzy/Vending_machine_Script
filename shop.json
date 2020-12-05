@@ -2,18 +2,18 @@
 "goods":[ {
 
   "name": "chocolate",
-  "price":20,
+  "price":30,
   "stock": 5
 },
    {
 
   "name": "noodles",
-  "price":30,
+  "price":50,
   "stock": 0
 },
   {
-    "name": "amala",
-    "price": 30,
+    "name": "cake",
+    "price": 40,
     "stock": 2
   }
 ]

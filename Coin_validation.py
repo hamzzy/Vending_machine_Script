@@ -15,7 +15,7 @@ class Valuation:
         add more coin if no more coin
         :return: none
         """
-        money = float(self.accept_input('Add more Coin :'))
+        money = float(self.accept_input('Please add more Coins :'))
         self.amount = self.amount + money
 
     def insert_money(self) -> any:
@@ -23,7 +23,7 @@ class Valuation:
         func accept input needed to be
         :return:
         """
-        self.amount += float(self.accept_input('insert Coin :'))
+        self.amount += float(self.accept_input('Please Insert Coins :'))
 
     def checkRefund(self) -> any:
         """
