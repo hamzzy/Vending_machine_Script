@@ -49,6 +49,8 @@ class VendingMachineValidator(Valuation):
         """
         if wanted.get('stock') == 0:
             return True
+        else:
+            pass
 
     def get_item(self, wanted) -> dict:
         """
@@ -71,12 +73,10 @@ class VendingMachineValidator(Valuation):
         :return:
         """
         cont = True
-        if (ans == 'y') and (self.amount == 0.0):
-            self.addCash()
-            cont = False
-        elif ans == "y" and self.amount != 0:
-            cont = False
-            pass
+        if (ans == 'y') :
+            return cont
+        elif ans == "y":
+            return cont
         else:
             self.checkRefund()
             return cont
