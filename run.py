@@ -15,7 +15,6 @@ def run():
                 continue
             else:
                 break
-
         except:
             print("incorrect input")
 
