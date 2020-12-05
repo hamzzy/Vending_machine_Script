@@ -8,6 +8,7 @@ def run():
     while True:
         selected = machine.accept_input('select item: ')
         try:
+
             machine.buyItem(selected)
             a = machine.accept_input('buy something else? (y/n): ')
             machine.showItems()

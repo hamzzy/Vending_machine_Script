@@ -1,8 +1,10 @@
-#  A Vending machine Code with python
+# Vending machine 
 
 
 ---------
-To run
+## This repository contain a python script simulating a vending machine
+### To run
 - git clone the repo
-- 
+- python3 run.py to run the script in terminal
 ---------
+
