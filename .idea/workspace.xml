@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60680c05-cdeb-417b-8c33-c10e592f1c85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l9Rq7mu3aloEHodzsvReQr33Ye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="Vending_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="solar_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vending_machine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_vend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="solar_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_vend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="solar_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vend_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="solar_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vend_machine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.vend_machine" />
+        <item itemvalue="Python.Vending_machine" />
+        <item itemvalue="Python.new_vend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60680c05-cdeb-417b-8c33-c10e592f1c85" name="Default Changelist" comment="" />
+      <created>1607007508855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607007508855</updated>
+      <workItem from="1607007510529" duration="6042000" />
+      <workItem from="1607084023585" duration="5646000" />
+      <workItem from="1607102212212" duration="32707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="322" key="GridCell.Tab.0.bottom" timestamp="1607191106072">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="322" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607191106072" />
+    <state width="1398" height="411" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1607082031804" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1607101447311" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1607101447266" />
+    <state width="1398" height="322" key="GridCell.Tab.0.center" timestamp="1607191106071">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="322" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607191106071" />
+    <state width="1398" height="411" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1607082031782" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1607101447310" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1607101447264" />
+    <state width="1398" height="322" key="GridCell.Tab.0.left" timestamp="1607191106070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="322" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607191106070" />
+    <state width="1398" height="411" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1607082031781" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1607101447309" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1607101447263" />
+    <state width="1398" height="322" key="GridCell.Tab.0.right" timestamp="1607191106071">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="322" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607191106071" />
+    <state width="1398" height="411" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1607082031803" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1607101447310" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1607101447265" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1607101447269">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607095176692" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1607101447269" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1607101447267">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607095176691" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1607101447267" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1607101447267">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607095176690" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1607101447267" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1607101447268">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607095176691" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1607101447268" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/solar_test$run.coverage" NAME="run Coverage Results" MODIFIED="1607191106060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/solar_test$new_vend.coverage" NAME="new_vend Coverage Results" MODIFIED="1607013739076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/solar_test$Vending_machine.coverage" NAME="Vending_machine Coverage Results" MODIFIED="1607099271388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/solar_test$vend.coverage" NAME="vend_machine Coverage Results" MODIFIED="1607190592880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
