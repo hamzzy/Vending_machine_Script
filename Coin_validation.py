@@ -35,14 +35,19 @@ class Valuation:
 
 
 class VendingMachineValidator(Valuation):
-
+    """
+      class VendingMachineValidator  validate user input
+      - check_stock
+      - get_item
+      - continue_to_buy
+    """
     def check_stock(self, wanted) -> bool:
         """
         This func check if the ietm is in stock
         :param wanted:
         :return: boolean
         """
-        if wanted.get('stocks') == 0:
+        if wanted.get('stock') == 0:
             return True
 
     def get_item(self, wanted) -> dict:
@@ -51,6 +56,7 @@ class VendingMachineValidator(Valuation):
         :param wanted:
         :return: dictionary
         """
+
         ret = None
         for item in self.items:
             if item.get('name') == wanted:
@@ -58,9 +64,9 @@ class VendingMachineValidator(Valuation):
                 break
         return ret
 
-    def continue_to_buy(self, ans) -> bool:
+    def continue_to_buy(self, ans:str) -> bool:
         """
-        func helps user to
+        func : accept user input to  buy more item and validate
         :param ans:
         :return:
         """

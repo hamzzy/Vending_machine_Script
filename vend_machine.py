@@ -28,12 +28,13 @@ class VendingMachine(ReadData,Input,VendingMachineValidator):
 
     def buyItem(self, selected: list) -> any:
         """
-
+         func
         :param selected:
         :return:
         """
         item = self.get_item(selected)
         take_stock: bool = self.check_stock(item)
+
         if self.amount < item.get('price') and take_stock == True:
             print('***************\n')
 
@@ -47,6 +48,12 @@ class VendingMachine(ReadData,Input,VendingMachineValidator):
             print("out of stock")
             print('***************\n')
 
+        elif item.get('price') > self.amount:
+            print('***************\n')
+
+            print('You can\'t buy this item. Insert more coins.')
+            print('***************\n')
+            self.addCash()
         else:
             self.amount -= item.get('price')
             print('***************\n')

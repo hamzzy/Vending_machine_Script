@@ -11,8 +11,6 @@ def run():
 
             machine.buyItem(selected)
             a = machine.accept_input('buy something else? (y/n): ')
-            machine.showItems()
-
             if machine.continue_to_buy(ans=a):
                 break
             else:
