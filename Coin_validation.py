@@ -72,11 +72,8 @@ class VendingMachineValidator(Valuation):
         :param ans:
         :return:
         """
-        cont = True
         if (ans == 'y') :
-            return cont
-        elif ans == "y":
-            return cont
+            return True
         else:
             self.checkRefund()
-            return cont
+            return False
